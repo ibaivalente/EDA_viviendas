@@ -1,4 +1,5 @@
-# EDA viviendas en venta en internet
+# Principales características de las viviendas en venta en internet
+## Anáisis de datos exploratorio (EDA)
 
 Este repositorio contiene mi proyecto de análisis de datos exploratorio sobre las principales características de las viviendas en venta en internet. Está compuesto de las siguientes carpetas y sus archivos:
 
